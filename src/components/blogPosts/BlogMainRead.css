@@ -1,0 +1,25 @@
+.blog-read-button {
+    background-color: #0077b6; /* blue color */
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .blog-read-button:hover {
+    background-color: #005a8e; /* darker blue on hover */
+  }
+  
+  .blog-read-button:active {
+    background-color: #003e60; /* even darker blue on tap */
+    transform: translateY(1px);
+  }
+
+  .blog-read-container{
+    padding:40px;
+    width:65%;
+    font-size: large;
+  }

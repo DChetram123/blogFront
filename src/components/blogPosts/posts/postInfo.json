@@ -1,0 +1,13 @@
+{
+    "posts": [
+        {
+            "postNumber": 1,
+            "title": "Lost and Found P.1",
+            "slug": "Lost Souls Running From Reality",
+            "contentFilePath": "/uploads/text/lostandfoundp1.txt",
+            "date": "November 23rd, 2024",
+            "contentImagePath": "/uploads/images/lostandfoundp1img.jpg"
+        }
+    
+    ]
+}
